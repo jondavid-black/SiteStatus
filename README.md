@@ -6,7 +6,8 @@ python -m pip install requests <br>
 python SiteStatus.py
 
 Output: <br>
-  ```('https://www.google.com', 200)
+  ```
+  ('https://www.google.com', 200)
   ('https://www.github.com', 200)
   ('https://devopsfordefense.org', 200)
   ('https://www.github.com/jondavid-black/notapage.html', 404)
